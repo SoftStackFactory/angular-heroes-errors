@@ -14,7 +14,6 @@ import { MessageService } from './message.service';
 @NgModule({
   declarations: [
     AppComponent,
-
     HeroDetailComponent,
     MessagesComponent
   ],
