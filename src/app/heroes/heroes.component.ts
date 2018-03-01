@@ -11,7 +11,7 @@ export class HeroesComponent implements OnInit {
   
   heroes: Hero[];
   
-  selectedHero: Hero;
+ edHero: Hero;
 
   constructor(private heroService: HeroService) { }
 
