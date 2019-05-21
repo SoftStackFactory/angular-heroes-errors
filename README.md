@@ -1,27 +1,22 @@
-# AngularHeroes
+# Instructions for Challenge
+ [Angular-Fix-Errors-Challenge](https://softstack-factory.gitbook.io/mean-stack/wk4/error-debugging-in-angular/angular-errors-challenge) version 1.7.0.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
+## Process Recap
 
-## Development server
+### Changing  to Challenge
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+| Step | Command | Description |
+| :--- | :--- | :--- |
+| \#1 | git checkout &lt;branch-name&gt; | change to branch for challenge |
+| \#2 | git log | look at the history and view the last commit message.  |
+| \#3 | q | quits the git log |
 
-## Code scaffolding
+Now fix the error
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### After Fixing the Error
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+| Step | Command | Description |
+| :--- | :--- | :--- |
+| \#1 | git status | view files that were changed |
+| \#2 | git add . | adds all the files that were listed in git status |
+| \#3 | git commit -m "&lt;your-message&gt;" | commits your work , takes a snapshot of all the files in your repo. |
