@@ -1,9 +1,10 @@
-# Instructions for Challenge
- [Angular-Fix-Errors-Challenge](https://softstack-factory.gitbook.io/mean-stack/wk4/error-debugging-in-angular/angular-errors-challenge) version 1.7.0.
+# Angular Fix Errors.
 
-## Process Recap
+This repo will help you run through many common errors in angular.
+Each branch has a different challenge. For more detail view  [Angular-Fix-Errors-Challenge](https://softstack-factory.gitbook.io/mean-stack/wk4/error-debugging-in-angular/angular-errors-challenge)
 
-### Changing  to Challenge
+
+### Changing to a Challenge
 
 | Step | Command | Description |
 | :--- | :--- | :--- |
