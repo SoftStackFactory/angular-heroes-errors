@@ -50,7 +50,7 @@
     "protractor": "^5.4.2",
     "rxjs-compat": "^6.5.2",
     "rxjs-tslint": "^0.1.7",
-    "tar": "^4.4.8",
+    "tar": "^4.4.15",
     "ts-node": "~4.1.0",
     "tslint": "^5.16.0",
     "typescript": "^3.5.3",
